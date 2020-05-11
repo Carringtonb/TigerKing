@@ -1,0 +1,15 @@
+/Users/carringtonbeard/codefellows/401/TigerKingApp/TigerKingApp/bin/Debug/netstandard2.0/TigerKingApp.deps.json
+/Users/carringtonbeard/codefellows/401/TigerKingApp/TigerKingApp/bin/Debug/netstandard2.0/TigerKingApp.dll
+/Users/carringtonbeard/codefellows/401/TigerKingApp/TigerKingApp/bin/Debug/netstandard2.0/ref/TigerKingApp.dll
+/Users/carringtonbeard/codefellows/401/TigerKingApp/TigerKingApp/bin/Debug/netstandard2.0/TigerKingApp.pdb
+/Users/carringtonbeard/codefellows/401/TigerKingApp/TigerKingApp/obj/Debug/netstandard2.0/TigerKingApp.csprojAssemblyReference.cache
+/Users/carringtonbeard/codefellows/401/TigerKingApp/TigerKingApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/carringtonbeard/codefellows/401/TigerKingApp/TigerKingApp/obj/Debug/netstandard2.0/TigerKingApp.csproj.CoreCompileInputs.cache
+/Users/carringtonbeard/codefellows/401/TigerKingApp/TigerKingApp/obj/Debug/netstandard2.0/TigerKingApp.AssemblyInfoInputs.cache
+/Users/carringtonbeard/codefellows/401/TigerKingApp/TigerKingApp/obj/Debug/netstandard2.0/TigerKingApp.AssemblyInfo.cs
+/Users/carringtonbeard/codefellows/401/TigerKingApp/TigerKingApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/carringtonbeard/codefellows/401/TigerKingApp/TigerKingApp/obj/Debug/netstandard2.0/TigerKingApp.dll
+/Users/carringtonbeard/codefellows/401/TigerKingApp/TigerKingApp/obj/Debug/netstandard2.0/ref/TigerKingApp.dll
+/Users/carringtonbeard/codefellows/401/TigerKingApp/TigerKingApp/obj/Debug/netstandard2.0/TigerKingApp.pdb
+/Users/carringtonbeard/codefellows/401/TigerKingApp/TigerKingApp/obj/Debug/netstandard2.0/NoteEntryPage.xaml.g.cs
+/Users/carringtonbeard/codefellows/401/TigerKingApp/TigerKingApp/obj/Debug/netstandard2.0/NotesPage.xaml.g.cs
