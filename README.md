@@ -46,8 +46,8 @@ Mac: to debug on an emulated iOS device, select the option in the device emulato
 ---
 
 ### Change Log
-0.7 - Home page added, page routing updated, experimentation done with images and other media
-0.3 - App created 5/11/2020
+- 0.7 - Home page added, page routing updated, experimentation done with images and other media
+- 0.3 - App created 5/11/2020
 
 
 ------------------------------
