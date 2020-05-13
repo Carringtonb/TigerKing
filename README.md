@@ -1,7 +1,7 @@
 # TigerKing
 
 ## Description
-- TigerKing is a fan-made app for Netflix's Tiger King that aims to connect fans of the show to each other and the wider community (and demonstrate the results of our first exploration of Xamarin).
+TigerKing is a fan-made app for Netflix's Tiger King that aims to connect fans of the show to each other and the wider community (and demonstrate the results of our first exploration of Xamarin).
 
 ---
 
@@ -17,9 +17,13 @@ Select ```File``` -> ```Open``` -> ```Project/Solution```
 
 Next navigate to the location you cloned the Repository.
 
-Double click on the ```Lab01-About-Me``` directory.
+Double click on the ```TigerKingApp``` directory.
 
-Then select and open ```AboutMe.sln```
+Then select and open ```TigerKingApp.sln```
+
+Windows: to debug on an emulated Android device, you will need to enable Hyper-V (Windows Pro+ only) or install HAXM
+
+Mac: to debug on an emulated iOS device, select the option in the device emulator
 
 ---
 
