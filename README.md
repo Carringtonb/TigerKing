@@ -39,7 +39,7 @@ Mac: to debug on an emulated iOS device, select the option in the device emulato
 ![Home Page](images/HomePage.png)
 #### Notes Page
 ![NotesPage](images/NotesPage.png)
-#### Application End
+#### Note Entry Page
 ![NoteEntryPage](images/NoteEntryPage.png)
 
 ---
