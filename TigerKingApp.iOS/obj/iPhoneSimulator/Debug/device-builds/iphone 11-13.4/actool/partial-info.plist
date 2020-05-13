@@ -8,13 +8,13 @@
 		<dict>
 			<key>CFBundleIconFiles</key>
 			<array>
-				<string>AppIcon20x20</string>
-				<string>AppIcon29x29</string>
-				<string>AppIcon40x40</string>
-				<string>AppIcon60x60</string>
+				<string>AppIcon-120x20</string>
+				<string>AppIcon-129x29</string>
+				<string>AppIcon-140x40</string>
+				<string>AppIcon-160x60</string>
 			</array>
 			<key>CFBundleIconName</key>
-			<string>AppIcon</string>
+			<string>AppIcon-1</string>
 		</dict>
 	</dict>
 	<key>CFBundleIcons~ipad</key>
@@ -23,15 +23,14 @@
 		<dict>
 			<key>CFBundleIconFiles</key>
 			<array>
-				<string>AppIcon20x20</string>
-				<string>AppIcon29x29</string>
-				<string>AppIcon40x40</string>
-				<string>AppIcon60x60</string>
-				<string>AppIcon76x76</string>
-				<string>AppIcon83.5x83.5</string>
+				<string>AppIcon-120x20</string>
+				<string>AppIcon-129x29</string>
+				<string>AppIcon-140x40</string>
+				<string>AppIcon-176x76</string>
+				<string>AppIcon-183.5x83.5</string>
 			</array>
 			<key>CFBundleIconName</key>
-			<string>AppIcon</string>
+			<string>AppIcon-1</string>
 		</dict>
 	</dict>
 </dict>

@@ -1,4 +1,4 @@
-/Users/carringtonbeard/codefellows/401/TigerKingApp/TigerKingApp.iOS/bin/iPhoneSimulator/Debug/TigerKingApp.iOS.exe
+/Users/carringtonbeard/codefellows/401/TigerKing/TigerKingApp.iOS/bin/iPhoneSimulator/Debug/TigerKingApp.iOS.exe
 /Library/Frameworks/Xamarin.iOS.framework/Versions/13.16.0.13/lib/mono/Xamarin.iOS/mscorlib.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/13.16.0.13/lib/mono/Xamarin.iOS/../../64bits/Xamarin.iOS.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/13.16.0.13/lib/mono/Xamarin.iOS/System.dll
@@ -22,5 +22,5 @@
 /Library/Frameworks/Xamarin.iOS.framework/Versions/13.16.0.13/lib/mono/Xamarin.iOS/System.Web.Services.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/13.16.0.13/lib/mono/Xamarin.iOS/System.Xml.Linq.dll
 /Users/carringtonbeard/.nuget/packages/xamarin.forms/4.4.0.991265/lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll
-/Users/carringtonbeard/codefellows/401/TigerKingApp/TigerKingApp/bin/Debug/netstandard2.0/TigerKingApp.dll
+/Users/carringtonbeard/codefellows/401/TigerKing/TigerKingApp/bin/Debug/netstandard2.0/TigerKingApp.dll
 /Users/carringtonbeard/.nuget/packages/xamarin.forms/4.4.0.991265/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll

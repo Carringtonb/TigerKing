@@ -4,10 +4,12 @@
              x:Class="TigerKingApp.NotesPage"
              Title="Notes">
     <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Home"
+                     Clicked="OnNoteGoHome" />
         <ToolbarItem Text="+"
                      Clicked="OnNoteAddedClicked" />
     </ContentPage.ToolbarItems>
-    <ListView x:Name="listView"
+    <ListView x:Name="istView"
               Margin="20"
               ItemSelected="OnListViewItemSelected">
         <ListView.ItemTemplate>

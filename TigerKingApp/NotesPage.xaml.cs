@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -31,7 +32,7 @@ namespace TigerKingApp
                 });
             }
 
-            listView.ItemsSource = notes
+            istView.ItemsSource = notes
                 .OrderBy(d => d.Date)
                 .ToList();
         }
@@ -39,6 +40,14 @@ namespace TigerKingApp
         async void OnNoteAddedClicked(object sender, EventArgs e)
         {
             await Navigation.PushAsync(new NoteEntryPage
+            {
+                BindingContext = new Note()
+            });
+        }
+
+        async void OnNoteGoHome(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new HomePage
             {
                 BindingContext = new Note()
             });

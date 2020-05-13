@@ -8,6 +8,12 @@ namespace TigerKingApp
     {
         public static string FolderPath { get; private set; }
 
+        static App()
+        {
+            Device.SetFlags(new string[] { "MediaElement_Experimental" });
+
+        }
+
         public App()
         {
             InitializeComponent();

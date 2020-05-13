@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/carringtonbeard/codefellows/401/TigerKingApp/TigerKingApp.Android/TigerKingApp.Android.csproj": {}
+    "/Users/carringtonbeard/codefellows/401/TigerKing/TigerKingApp.Android/TigerKingApp.Android.csproj": {}
   },
   "projects": {
-    "/Users/carringtonbeard/codefellows/401/TigerKingApp/TigerKingApp.Android/TigerKingApp.Android.csproj": {
+    "/Users/carringtonbeard/codefellows/401/TigerKing/TigerKingApp.Android/TigerKingApp.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/carringtonbeard/codefellows/401/TigerKingApp/TigerKingApp.Android/TigerKingApp.Android.csproj",
+        "projectUniqueName": "/Users/carringtonbeard/codefellows/401/TigerKing/TigerKingApp.Android/TigerKingApp.Android.csproj",
         "projectName": "TigerKingApp.Android",
-        "projectPath": "/Users/carringtonbeard/codefellows/401/TigerKingApp/TigerKingApp.Android/TigerKingApp.Android.csproj",
+        "projectPath": "/Users/carringtonbeard/codefellows/401/TigerKing/TigerKingApp.Android/TigerKingApp.Android.csproj",
         "packagesPath": "/Users/carringtonbeard/.nuget/packages/",
-        "outputPath": "/Users/carringtonbeard/codefellows/401/TigerKingApp/TigerKingApp.Android/obj/",
+        "outputPath": "/Users/carringtonbeard/codefellows/401/TigerKing/TigerKingApp.Android/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
@@ -26,8 +26,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "/Users/carringtonbeard/codefellows/401/TigerKingApp/TigerKingApp/TigerKingApp.csproj": {
-                "projectPath": "/Users/carringtonbeard/codefellows/401/TigerKingApp/TigerKingApp/TigerKingApp.csproj"
+              "/Users/carringtonbeard/codefellows/401/TigerKing/TigerKingApp/TigerKingApp.csproj": {
+                "projectPath": "/Users/carringtonbeard/codefellows/401/TigerKing/TigerKingApp/TigerKingApp.csproj"
               }
             }
           }
@@ -48,14 +48,14 @@
         }
       }
     },
-    "/Users/carringtonbeard/codefellows/401/TigerKingApp/TigerKingApp/TigerKingApp.csproj": {
+    "/Users/carringtonbeard/codefellows/401/TigerKing/TigerKingApp/TigerKingApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/carringtonbeard/codefellows/401/TigerKingApp/TigerKingApp/TigerKingApp.csproj",
+        "projectUniqueName": "/Users/carringtonbeard/codefellows/401/TigerKing/TigerKingApp/TigerKingApp.csproj",
         "projectName": "TigerKingApp",
-        "projectPath": "/Users/carringtonbeard/codefellows/401/TigerKingApp/TigerKingApp/TigerKingApp.csproj",
+        "projectPath": "/Users/carringtonbeard/codefellows/401/TigerKing/TigerKingApp/TigerKingApp.csproj",
         "packagesPath": "/Users/carringtonbeard/.nuget/packages/",
-        "outputPath": "/Users/carringtonbeard/codefellows/401/TigerKingApp/TigerKingApp/obj/",
+        "outputPath": "/Users/carringtonbeard/codefellows/401/TigerKing/TigerKingApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/carringtonbeard/.config/NuGet/NuGet.Config"

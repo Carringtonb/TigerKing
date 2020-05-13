@@ -11,11 +11,17 @@
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="*" />
                 <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
             </Grid.ColumnDefinitions>
+           
+        <Button Grid.Column="2" Text="Main Page" BackgroundColor="BurlyWood" Clicked="NavigateButton_OnClicked" />  
+
             <Button Text="Save"
+                    BackgroundColor="BurlyWood"
                     Clicked="OnSaveButtonClicked" />
             <Button Grid.Column="1"
                     Text="Delete"
+                    BackgroundColor="BurlyWood"
                     Clicked="OnDeleteButtonClicked"/>
         </Grid>
     </StackLayout>

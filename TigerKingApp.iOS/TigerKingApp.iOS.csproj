@@ -68,6 +68,7 @@
     <None Include="Entitlements.plist" />
     <None Include="Info.plist" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <None Include="Resources\JoeExotic.png" />
   </ItemGroup>
   <ItemGroup>
     <InterfaceDefinition Include="Resources\LaunchScreen.storyboard" />
@@ -113,6 +114,50 @@
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon20.png">
       <Visible>false</Visible>
     </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\AppIcon-1.appiconset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\AppIcon-1.appiconset\JoeExotic.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon-1.appiconset\JoeExotic-1.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon-1.appiconset\JoeExotic-2.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon-1.appiconset\JoeExotic-3.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon-1.appiconset\JoeExotic-4.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon-1.appiconset\JoeExotic-5.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon-1.appiconset\JoeExotic-6.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon-1.appiconset\JoeExotic-7.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon-1.appiconset\JoeExotic-8.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon-1.appiconset\JoeExotic-9.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon-1.appiconset\JoeExotic-10.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon-1.appiconset\JoeExotic-11.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon-1.appiconset\JoeExotic-12.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon-1.appiconset\JoeExotic-13.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon-1.appiconset\JoeExotic-14.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon-1.appiconset\JoeExotic-15.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon-1.appiconset\JoeExotic-16.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon-1.appiconset\JoeExotic-17.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon-1.appiconset\JoeExotic-18.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon-1.appiconset\JoeExotic-19.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon-1.appiconset\JoeExotic-20.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon-1.appiconset\JoeExotic-21.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon-1.appiconset\JoeExotic-22.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon-1.appiconset\JoeExotic-23.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon-1.appiconset\JoeExotic-24.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon-1.appiconset\JoeExotic-25.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon-1.appiconset\JoeExotic-26.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon-1.appiconset\JoeExotic-27.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon-1.appiconset\JoeExotic-28.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon-1.appiconset\JoeExotic-29.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon-1.appiconset\JoeExotic-30.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon-1.appiconset\JoeExotic-31.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon-1.appiconset\JoeExotic-32.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon-1.appiconset\JoeExotic-33.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon-1.appiconset\JoeExotic-34.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon-1.appiconset\JoeExotic-35.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon-1.appiconset\JoeExotic-36.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon-1.appiconset\JoeExotic-37.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon-1.appiconset\JoeExotic-38.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon-1.appiconset\JoeExotic-39.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon-1.appiconset\JoeExotic-40.png" />
+    <ImageAsset Include="Assets.xcassets\Exotic.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\Exotic.imageset\tigerKing.jpeg" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -125,6 +170,12 @@
   <ItemGroup>
     <PackageReference Include="Xamarin.Forms" Version="4.4.0.991265" />
     <PackageReference Include="Xamarin.Essentials" Version="1.3.1" />
+    <PackageReference Include="Plugin.MediaManager">
+      <Version>0.9.7</Version>
+    </PackageReference>
+    <PackageReference Include="Plugin.MediaManager.Forms">
+      <Version>0.9.7</Version>
+    </PackageReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <ItemGroup>
@@ -132,5 +183,9 @@
       <Project>{CE4EA72A-37CB-4C78-8A87-5DBEC82F51E4}</Project>
       <Name>TigerKingApp</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Assets.xcassets\JoeExotic.imageset\" />
+    <Folder Include="Assets.xcassets\Exotic.imageset\" />
   </ItemGroup>
 </Project>

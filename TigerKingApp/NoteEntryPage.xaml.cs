@@ -42,5 +42,10 @@ namespace TigerKingApp
 
             await Navigation.PopAsync();
         }
+
+        private async void NavigateButton_OnClicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new HomePage());
+        }
     }
 }

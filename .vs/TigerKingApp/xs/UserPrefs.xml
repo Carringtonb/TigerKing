@@ -1,0 +1,52 @@
+﻿<Properties StartupConfiguration="{A8406FA0-E2D9-4032-B550-413AD86A4C3A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TigerKingApp/HomePage.xaml.cs">
+    <Files>
+      <File FileName="TigerKingApp/NoteEntryPage.xaml" Line="24" Column="48" />
+      <File FileName="TigerKingApp/NoteEntryPage.xaml.cs" Line="16" Column="1" />
+      <File FileName="TigerKingApp/App.xaml" Line="5" Column="15" />
+      <File FileName="TigerKingApp/App.xaml.cs" Line="11" Column="21" />
+      <File FileName="TigerKingApp/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="TigerKingApp/Models/Notes.cs" Line="1" Column="1" />
+      <File FileName="TigerKingApp/NotesPage.xaml" Line="12" Column="4" />
+      <File FileName="TigerKingApp/NotesPage.xaml.cs" Line="40" Column="9" />
+      <File FileName="TigerKingApp/HomePage.xaml" Line="8" Column="2" />
+      <File FileName="TigerKingApp/HomePage.xaml.cs" Line="18" Column="7" />
+      <File FileName="TigerKingApp.iOS/Main.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TigerKingApp" expanded="True">
+            <Node name="TigerKingApp" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="HomePage.xaml" expanded="True">
+                <Node name="HomePage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="TigerKingApp.iOS" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TigerKingApp.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.0C929031-6DFD-4406-BC25-075AF6111046" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.TigerKingApp.Android PreferredExecutionTarget="Android.testdevice" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/carringtonbeard/codefellows/401/TigerKing/TigerKingApp.iOS/Main.cs" relfile="TigerKingApp.iOS/Main.cs" line="13" column="1" />
+      <Breakpoint file="/Users/carringtonbeard/codefellows/401/TigerKing/TigerKingApp/NoteEntryPage.xaml.cs" relfile="TigerKingApp/NoteEntryPage.xaml.cs" line="16" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -6,32 +6,75 @@
 	<dict>
 		<key>output-files</key>
 		<array>
-			<string>/Users/carringtonbeard/codefellows/401/TigerKingApp/TigerKingApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/bundle/AppIcon20x20@2x.png</string>
-			<string>/Users/carringtonbeard/codefellows/401/TigerKingApp/TigerKingApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/bundle/AppIcon20x20@3x.png</string>
-			<string>/Users/carringtonbeard/codefellows/401/TigerKingApp/TigerKingApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/bundle/AppIcon29x29@2x.png</string>
-			<string>/Users/carringtonbeard/codefellows/401/TigerKingApp/TigerKingApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/bundle/AppIcon29x29@3x.png</string>
-			<string>/Users/carringtonbeard/codefellows/401/TigerKingApp/TigerKingApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/bundle/AppIcon40x40@2x.png</string>
-			<string>/Users/carringtonbeard/codefellows/401/TigerKingApp/TigerKingApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/bundle/AppIcon40x40@3x.png</string>
-			<string>/Users/carringtonbeard/codefellows/401/TigerKingApp/TigerKingApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/bundle/AppIcon60x60@2x.png</string>
-			<string>/Users/carringtonbeard/codefellows/401/TigerKingApp/TigerKingApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/bundle/AppIcon60x60@3x.png</string>
-			<string>/Users/carringtonbeard/codefellows/401/TigerKingApp/TigerKingApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/bundle/AppIcon20x20~ipad.png</string>
-			<string>/Users/carringtonbeard/codefellows/401/TigerKingApp/TigerKingApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/bundle/AppIcon20x20@2x~ipad.png</string>
-			<string>/Users/carringtonbeard/codefellows/401/TigerKingApp/TigerKingApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/bundle/AppIcon29x29~ipad.png</string>
-			<string>/Users/carringtonbeard/codefellows/401/TigerKingApp/TigerKingApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/bundle/AppIcon29x29@2x~ipad.png</string>
-			<string>/Users/carringtonbeard/codefellows/401/TigerKingApp/TigerKingApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/bundle/AppIcon40x40~ipad.png</string>
-			<string>/Users/carringtonbeard/codefellows/401/TigerKingApp/TigerKingApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/bundle/AppIcon40x40@2x~ipad.png</string>
-			<string>/Users/carringtonbeard/codefellows/401/TigerKingApp/TigerKingApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/bundle/AppIcon76x76~ipad.png</string>
-			<string>/Users/carringtonbeard/codefellows/401/TigerKingApp/TigerKingApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/bundle/AppIcon76x76@2x~ipad.png</string>
-			<string>/Users/carringtonbeard/codefellows/401/TigerKingApp/TigerKingApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/bundle/AppIcon83.5x83.5@2x~ipad.png</string>
-			<string>/Users/carringtonbeard/codefellows/401/TigerKingApp/TigerKingApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/bundle/Assets.car</string>
-			<string>/Users/carringtonbeard/codefellows/401/TigerKingApp/TigerKingApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/partial-info.plist</string>
+			<string>/Users/carringtonbeard/codefellows/401/TigerKing/TigerKingApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/bundle/AppIcon-120x20@2x.png</string>
+			<string>/Users/carringtonbeard/codefellows/401/TigerKing/TigerKingApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/bundle/AppIcon-120x20@3x.png</string>
+			<string>/Users/carringtonbeard/codefellows/401/TigerKing/TigerKingApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/bundle/AppIcon-129x29@2x.png</string>
+			<string>/Users/carringtonbeard/codefellows/401/TigerKing/TigerKingApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/bundle/AppIcon-129x29@3x.png</string>
+			<string>/Users/carringtonbeard/codefellows/401/TigerKing/TigerKingApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/bundle/AppIcon-140x40@2x.png</string>
+			<string>/Users/carringtonbeard/codefellows/401/TigerKing/TigerKingApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/bundle/AppIcon-140x40@3x.png</string>
+			<string>/Users/carringtonbeard/codefellows/401/TigerKing/TigerKingApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/bundle/AppIcon-160x60@2x.png</string>
+			<string>/Users/carringtonbeard/codefellows/401/TigerKing/TigerKingApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/bundle/AppIcon-160x60@3x.png</string>
+			<string>/Users/carringtonbeard/codefellows/401/TigerKing/TigerKingApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/bundle/AppIcon-120x20~ipad.png</string>
+			<string>/Users/carringtonbeard/codefellows/401/TigerKing/TigerKingApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/bundle/AppIcon-120x20@2x~ipad.png</string>
+			<string>/Users/carringtonbeard/codefellows/401/TigerKing/TigerKingApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/bundle/AppIcon-129x29~ipad.png</string>
+			<string>/Users/carringtonbeard/codefellows/401/TigerKing/TigerKingApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/bundle/AppIcon-129x29@2x~ipad.png</string>
+			<string>/Users/carringtonbeard/codefellows/401/TigerKing/TigerKingApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/bundle/AppIcon-140x40~ipad.png</string>
+			<string>/Users/carringtonbeard/codefellows/401/TigerKing/TigerKingApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/bundle/AppIcon-140x40@2x~ipad.png</string>
+			<string>/Users/carringtonbeard/codefellows/401/TigerKing/TigerKingApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/bundle/AppIcon-176x76~ipad.png</string>
+			<string>/Users/carringtonbeard/codefellows/401/TigerKing/TigerKingApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/bundle/AppIcon-176x76@2x~ipad.png</string>
+			<string>/Users/carringtonbeard/codefellows/401/TigerKing/TigerKingApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/bundle/AppIcon-183.5x83.5@2x~ipad.png</string>
+			<string>/Users/carringtonbeard/codefellows/401/TigerKing/TigerKingApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/bundle/AppIcon-160x60@2x~car.png</string>
+			<string>/Users/carringtonbeard/codefellows/401/TigerKing/TigerKingApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/bundle/AppIcon-160x60@3x~car.png</string>
+			<string>/Users/carringtonbeard/codefellows/401/TigerKing/TigerKingApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/bundle/Assets.car</string>
+			<string>/Users/carringtonbeard/codefellows/401/TigerKing/TigerKingApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/partial-info.plist</string>
 		</array>
 	</dict>
+	<key>com.apple.actool.document.warnings</key>
+	<array>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./Exotic.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Exotic.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Exotic.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Exotic.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Exotic.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Exotic.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Exotic.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Exotic.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/carringtonbeard/codefellows/401/TigerKing/TigerKingApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "Exotic" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./Exotic.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Exotic.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Exotic.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Exotic.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Exotic.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Exotic.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Exotic.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Exotic.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/carringtonbeard/codefellows/401/TigerKing/TigerKingApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "Exotic" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+	</array>
 	<key>com.apple.actool.notices</key>
 	<array>
 		<dict>
 			<key>description</key>
-			<string>Failed to read file attributes for "/Users/carringtonbeard/codefellows/401/TigerKingApp/TigerKingApp.iOS/11"</string>
+			<string>Failed to read file attributes for "/Users/carringtonbeard/codefellows/401/TigerKing/TigerKingApp.iOS/11"</string>
 			<key>failure-reason</key>
 			<string>No such file or directory</string>
 		</dict>
