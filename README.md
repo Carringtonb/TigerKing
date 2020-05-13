@@ -34,7 +34,6 @@ Mac: to debug on an emulated iOS device, select the option in the device emulato
 ---
 
 ### Visuals
-***[Add screenshots of your application in action]***
 
 #### Home Page
 ![Home Page](images/HomePage.png)
